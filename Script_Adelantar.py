@@ -13,13 +13,14 @@ class Persona():
     def asignarGenero(self,genero):
         self.__genero = genero
 
-    # getters 
+    # getters
     def verNombre(self): 
         return self.__nombre
     def verCedula(self):
         return self.__cedula
     def verGenero(self):
         return self.__genero
+    
     
     #deleters
     def borrarNombre(self):
