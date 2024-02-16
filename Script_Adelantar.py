@@ -97,3 +97,4 @@ print(listaPaciente)
 # print(pacientes.verCedula())
 # print(pacientes.verGenero())
 
+#dianarojassssss
